@@ -1,0 +1,96 @@
+# ==========================================
+# DocuMindAI - Git Ignore Configuration
+# ==========================================
+
+# Environment variables & secrets (CRITICAL)
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+backend/.env
+frontend/.env
+frontend/.env*.local
+
+# Node & Frontend dependencies
+node_modules/
+frontend/node_modules/
+.pnp
+.pnp.js
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnpm-store
+
+# Next.js build output & cache
+.next/
+frontend/.next/
+out/
+frontend/out/
+build/
+dist/
+
+# TypeScript declaration maps
+*.tsbuildinfo
+next-env.d.ts
+
+# Python artifacts & virtual environments
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+.nox/
+
+# Logs & Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Configurations
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Uploads & Generated cache
+# Keep sample PDFs and directory structure, but ignore user-uploaded pages and dynamic cache
+backend/uploads/pages/
+backend/uploads/*-*-*-*.json
+backend/uploads/*-*-*-*.pdf
+!backend/uploads/sample*.pdf
+!backend/uploads/.gitkeep

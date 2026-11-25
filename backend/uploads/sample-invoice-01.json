@@ -1,0 +1,25 @@
+{
+  "doc_id": "sample-invoice-01",
+  "filename": "sample_invoice.pdf",
+  "file_size": 8820,
+  "total_pages": 1,
+  "title": "sample_invoice",
+  "author": "",
+  "subject": "",
+  "creation_date": "",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "INVOICE\nDocuMind Technologies Inc.\n100 AI Boulevard, Suite 500, San Francisco, CA 94107\nbilling@documind.ai | +1 (555) 019-2834\nInvoice #: INV-2026-8891\nDate: November 15, 2026\nDue Date: December 15, 2026\nPayment Terms: Net 30\nBILLED TO:\nApex Global Logistics Corp.\nAttn: Accounts Payable\n742 Evergreen Terrace, Chicago, IL 60601\nItem Description\nQty\nUnit Price\nTotal ($)\nDocuMind Enterprise AI License (Annual)\n1\n$12,000.00\n$12,000.00\nCustom Document Parsing Model Fine-Tuning\n2\n$3,500.00\n$7,000.00\nMulti-Cloud Dedicated Processing Nodes\n12\n$450.00\n$5,400.00\n24/7 Premium SLA Support & Training\n1\n$2,500.00\n$2,500.00\nSubtotal:\n$26,900.00\nTax (8.25%):\n$2,219.25\nTotal Amount Due:\n$29,119.25\nPayment Instructions:\nWire Transfer: Silicon Valley Bank, Routing # 121000358, Acct # 9928374112\nPlease include Invoice # INV-2026-8891 on all remittances.",
+      "char_count": 846,
+      "word_count": 118,
+      "image_filename": "page_1.png",
+      "image_url": "/api/documents/sample-invoice-01/pages/1/image",
+      "width": 595.0,
+      "height": 842.0
+    }
+  ],
+  "full_text": "--- [Page 1] ---\nINVOICE\nDocuMind Technologies Inc.\n100 AI Boulevard, Suite 500, San Francisco, CA 94107\nbilling@documind.ai | +1 (555) 019-2834\nInvoice #: INV-2026-8891\nDate: November 15, 2026\nDue Date: December 15, 2026\nPayment Terms: Net 30\nBILLED TO:\nApex Global Logistics Corp.\nAttn: Accounts Payable\n742 Evergreen Terrace, Chicago, IL 60601\nItem Description\nQty\nUnit Price\nTotal ($)\nDocuMind Enterprise AI License (Annual)\n1\n$12,000.00\n$12,000.00\nCustom Document Parsing Model Fine-Tuning\n2\n$3,500.00\n$7,000.00\nMulti-Cloud Dedicated Processing Nodes\n12\n$450.00\n$5,400.00\n24/7 Premium SLA Support & Training\n1\n$2,500.00\n$2,500.00\nSubtotal:\n$26,900.00\nTax (8.25%):\n$2,219.25\nTotal Amount Due:\n$29,119.25\nPayment Instructions:\nWire Transfer: Silicon Valley Bank, Routing # 121000358, Acct # 9928374112\nPlease include Invoice # INV-2026-8891 on all remittances.",
+  "total_words": 118,
+  "is_scanned": false
+}

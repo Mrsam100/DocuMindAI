@@ -1,0 +1,35 @@
+{
+  "doc_id": "sample-contract-v2",
+  "filename": "sample_contract_v2.pdf",
+  "file_size": 6753,
+  "total_pages": 2,
+  "title": "sample_contract_v2",
+  "author": "",
+  "subject": "",
+  "creation_date": "",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MASTER SERVICES AGREEMENT (v2.0)\nThis Master Services Agreement is entered into as of November 1, 2026, by and between:\n1. DocuMind Technologies Inc. ('Service Provider')\n2. Apex Global Logistics Corp. ('Client')\nSECTION 1: SCOPE OF SERVICES\nService Provider shall deliver intelligent document processing, OCR extraction, and automated\nknowledge extraction infrastructure to Client under the agreed Service Level Agreement (SLA).\nSECTION 2: PAYMENT AND FEES\nClient agrees to pay all undisputed invoices within Net 15 days of receipt.\nLate payments shall accrue interest at 2.5% per month plus recovery fees.\nSECTION 3: CONFIDENTIALITY\nBoth parties agree to hold all proprietary trade secrets, customer data, and source code in strict\nconfidence for a minimum period of five (5) years following termination of this Agreement.",
+      "char_count": 824,
+      "word_count": 122,
+      "image_filename": "page_1.png",
+      "image_url": "/api/documents/sample-contract-v2/pages/1/image",
+      "width": 595.0,
+      "height": 842.0
+    },
+    {
+      "page_number": 2,
+      "text": "SECTION 4: LIMITATION OF LIABILITY\nUnder no circumstances shall Service Provider's liability exceed $50,000 USD regardless of cause.\nClient shall indemnify and defend Service Provider against all third-party IP claims.\nSECTION 5: GOVERNING LAW & ARBITRATION\nThis Agreement shall be construed in accordance with the laws of the State of California.\nAny dispute arising hereunder shall be settled by binding arbitration in San Francisco, CA.\nSECTION 6: DATA PRIVACY & GDPR COMPLIANCE (NEW)\nClient warrants that all processed documents comply with EU GDPR and California CCPA regulations.\nData retention shall not exceed ninety (90) days upon explicit account deactivation request.\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.\nFor DocuMind Technologies: _____________________    Date: Nov 1, 2026\nFor Apex Global Logistics:  _____________________    Date: Nov 3, 2026",
+      "char_count": 906,
+      "word_count": 131,
+      "image_filename": "page_2.png",
+      "image_url": "/api/documents/sample-contract-v2/pages/2/image",
+      "width": 595.0,
+      "height": 842.0
+    }
+  ],
+  "full_text": "--- [Page 1] ---\nMASTER SERVICES AGREEMENT (v2.0)\nThis Master Services Agreement is entered into as of November 1, 2026, by and between:\n1. DocuMind Technologies Inc. ('Service Provider')\n2. Apex Global Logistics Corp. ('Client')\nSECTION 1: SCOPE OF SERVICES\nService Provider shall deliver intelligent document processing, OCR extraction, and automated\nknowledge extraction infrastructure to Client under the agreed Service Level Agreement (SLA).\nSECTION 2: PAYMENT AND FEES\nClient agrees to pay all undisputed invoices within Net 15 days of receipt.\nLate payments shall accrue interest at 2.5% per month plus recovery fees.\nSECTION 3: CONFIDENTIALITY\nBoth parties agree to hold all proprietary trade secrets, customer data, and source code in strict\nconfidence for a minimum period of five (5) years following termination of this Agreement.\n\n--- [Page 2] ---\nSECTION 4: LIMITATION OF LIABILITY\nUnder no circumstances shall Service Provider's liability exceed $50,000 USD regardless of cause.\nClient shall indemnify and defend Service Provider against all third-party IP claims.\nSECTION 5: GOVERNING LAW & ARBITRATION\nThis Agreement shall be construed in accordance with the laws of the State of California.\nAny dispute arising hereunder shall be settled by binding arbitration in San Francisco, CA.\nSECTION 6: DATA PRIVACY & GDPR COMPLIANCE (NEW)\nClient warrants that all processed documents comply with EU GDPR and California CCPA regulations.\nData retention shall not exceed ninety (90) days upon explicit account deactivation request.\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.\nFor DocuMind Technologies: _____________________    Date: Nov 1, 2026\nFor Apex Global Logistics:  _____________________    Date: Nov 3, 2026",
+  "total_words": 253,
+  "is_scanned": false
+}

@@ -1,0 +1,35 @@
+{
+  "doc_id": "sample-contract-v1",
+  "filename": "sample_contract_v1.pdf",
+  "file_size": 5978,
+  "total_pages": 2,
+  "title": "sample_contract_v1",
+  "author": "",
+  "subject": "",
+  "creation_date": "",
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "MASTER SERVICES AGREEMENT (v1.0)\nThis Master Services Agreement is entered into as of November 1, 2026, by and between:\n1. DocuMind Technologies Inc. ('Service Provider')\n2. Apex Global Logistics Corp. ('Client')\nSECTION 1: SCOPE OF SERVICES\nService Provider shall deliver intelligent document processing, OCR extraction, and automated\nknowledge extraction infrastructure to Client under the agreed Service Level Agreement (SLA).\nSECTION 2: PAYMENT AND FEES\nClient agrees to pay all undisputed invoices within Net 30 days of receipt.\nLate payments shall accrue interest at 1.0% per month.\nSECTION 3: CONFIDENTIALITY\nBoth parties agree to hold all proprietary trade secrets, customer data, and source code in strict\nconfidence for a minimum period of five (5) years following termination of this Agreement.",
+      "char_count": 805,
+      "word_count": 119,
+      "image_filename": "page_1.png",
+      "image_url": "/api/documents/sample-contract-v1/pages/1/image",
+      "width": 595.0,
+      "height": 842.0
+    },
+    {
+      "page_number": 2,
+      "text": "SECTION 4: LIMITATION OF LIABILITY\nExcept for breaches of confidentiality, neither party's aggregate liability under this agreement\nshall exceed the total fees paid by Client during the preceding twelve (12) month period.\nSECTION 5: GOVERNING LAW & ARBITRATION\nThis Agreement shall be construed in accordance with the laws of the State of California.\nAny dispute arising hereunder shall be settled by binding arbitration in San Francisco, CA.\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.\nFor DocuMind Technologies: _____________________    Date: Nov 1, 2026\nFor Apex Global Logistics:  _____________________    Date: Nov 3, 2026",
+      "char_count": 670,
+      "word_count": 98,
+      "image_filename": "page_2.png",
+      "image_url": "/api/documents/sample-contract-v1/pages/2/image",
+      "width": 595.0,
+      "height": 842.0
+    }
+  ],
+  "full_text": "--- [Page 1] ---\nMASTER SERVICES AGREEMENT (v1.0)\nThis Master Services Agreement is entered into as of November 1, 2026, by and between:\n1. DocuMind Technologies Inc. ('Service Provider')\n2. Apex Global Logistics Corp. ('Client')\nSECTION 1: SCOPE OF SERVICES\nService Provider shall deliver intelligent document processing, OCR extraction, and automated\nknowledge extraction infrastructure to Client under the agreed Service Level Agreement (SLA).\nSECTION 2: PAYMENT AND FEES\nClient agrees to pay all undisputed invoices within Net 30 days of receipt.\nLate payments shall accrue interest at 1.0% per month.\nSECTION 3: CONFIDENTIALITY\nBoth parties agree to hold all proprietary trade secrets, customer data, and source code in strict\nconfidence for a minimum period of five (5) years following termination of this Agreement.\n\n--- [Page 2] ---\nSECTION 4: LIMITATION OF LIABILITY\nExcept for breaches of confidentiality, neither party's aggregate liability under this agreement\nshall exceed the total fees paid by Client during the preceding twelve (12) month period.\nSECTION 5: GOVERNING LAW & ARBITRATION\nThis Agreement shall be construed in accordance with the laws of the State of California.\nAny dispute arising hereunder shall be settled by binding arbitration in San Francisco, CA.\nIN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date.\nFor DocuMind Technologies: _____________________    Date: Nov 1, 2026\nFor Apex Global Logistics:  _____________________    Date: Nov 3, 2026",
+  "total_words": 217,
+  "is_scanned": false
+}
